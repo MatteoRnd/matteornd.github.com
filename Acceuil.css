@@ -1,0 +1,270 @@
+*{
+    background-color:white;
+    background-image: url(images/bo.jpg);
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-position:50% 50%;
+    background-size:cover;
+}
+
+
+body{
+    margin: 50;
+    padding: 20;
+    font: 30px Arial;
+}
+
+.menuderoulant {
+    height: auto;
+    list-style: none;
+    padding: inherit;
+    margin: auto;
+    color: #293245;
+}
+
+.menuderoulant li {
+    float: left;
+    width: 1090px;
+}
+
+.menuderoulant li a:link, .menuderoulant li a:visited {
+    display: block;
+    color: white;
+    background: #293245;
+    padding: inherit;
+    border-right: 1px solid white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.menuderoulant li a:hover{
+    background-color: #199BD2;
+}
+
+.menuderoulant li a:active{
+    background-color: #808080;
+}
+
+.menuderoulant .sousmenu{
+    list-style-type: none;
+    display: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+}
+
+.menuderoulant .sousmenu li{
+    float: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid transparent;
+    border-right: : 1px solid transparent;
+}
+
+.menuderoulant .sousmenu li a:link, .menuderoulant li a:visited {
+    display: block;
+    color: white;
+    text-decoration: none;
+    background-color: #293245;
+}
+
+.menuderoulant .sousmenu li a:hover {
+    background-color: #199BD2;
+}
+
+.menuderoulant li:hover .sousmenu {
+    display: block;
+}
+
+.nom {
+    margin: 50px;
+    padding: 200px;
+    left: 60px;
+    font-family: Chalkduster, fantasy;
+}
+
+.photomoi{
+    position: absolute;
+    left: 300px;
+    top: 50px;
+}
+
+.mecont{
+    position: absolute;
+    left: 200px;
+    top: 380px;
+}
+
+.mail{
+    position: absolute;
+    left: 450px;
+    top: 420px;
+}
+
+.titre{
+    position: absolute;
+    left: 1000px;
+    top: 100px;
+}
+
+.python{
+    position: absolute;
+    left: 1000px;
+    top: 200px;
+}
+
+.etoile1{
+    position: absolute;
+    left: 1100px;
+    top: 230px;
+}
+
+.etoile2{
+    position: absolute;
+    left: 1150px;
+    top: 230px;
+}
+
+.etoile3{
+    position: absolute;
+    left: 1200px;
+    top: 230px;
+}
+
+.etoile4{
+    position: absolute;
+    left: 1250px;
+    top: 230px;
+}
+
+.etoile5{
+    position: absolute;
+    left: 1300px;
+    top: 230px;
+}
+
+.HTML{
+    position: absolute;
+    left: 1000px;
+    top: 270px;
+}
+
+.etoile6{
+    position: absolute;
+    left: 1100px;
+    top: 300px;
+}
+
+.etoile7{
+    position: absolute;
+    left: 1150px;
+    top: 300px;
+}
+
+.etoile8{
+    position: absolute;
+    left: 1200px;
+    top: 300px;
+}
+
+.etoile9{
+    position: absolute;
+    left: 1250px;
+    top: 300px;
+}
+
+.etoile10{
+    position: absolute;
+    left: 1300px;
+    top: 300px;
+}
+
+.SQL{
+    position: absolute;
+    left: 1500px;
+    top: 200px;
+}
+
+.etoile11{
+    position: absolute;
+    left: 1600px;
+    top: 230px;
+}
+
+.etoile12{
+    position: absolute;
+    left: 1650px;
+    top: 230px;
+}
+
+.etoile13{
+    position: absolute;
+    left: 1700px;
+    top: 230px;
+}
+
+.etoile14{
+    position: absolute;
+    left: 1750px;
+    top: 230px;
+}
+
+.etoile15{
+    position: absolute;
+    left: 1800px;
+    top: 230px;
+}
+
+.CSS{
+    position: absolute;
+    left: 1500px;
+    top: 270px;
+}
+
+.etoile16{
+    position: absolute;
+    left: 1600px;
+    top: 300px;
+}
+
+.etoile17{
+    position: absolute;
+    left: 1650px;
+    top: 300px;
+}
+
+.etoile18{
+    position: absolute;
+    left: 1700px;
+    top: 300px;
+}
+
+.etoile19{
+    position: absolute;
+    left: 1750px;
+    top: 300px;
+}
+
+.etoile20{
+    position: absolute;
+    left: 1800px;
+    top: 300px;
+}
+
+.futurcarr{
+    position: absolute;
+    left: 200px;
+    top: 500px;
+}
+
+.objcar1{
+    position: absolute;
+    left: 200px;
+    top: 550px;
+}
+
+.objcar2{
+    position: absolute;
+    left: 200px;
+    top: 600px;
+}

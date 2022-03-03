@@ -1,0 +1,155 @@
+*{
+    background-color:white;
+    background-image: url(images/bo.jpg);
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-position:50% 50%;
+    background-size:cover;
+}
+
+
+body{
+    margin: 50;
+    padding: 20;
+    font: 30px Arial;
+}
+
+.menuderoulant {
+    height: auto;
+    list-style: none;
+    padding: inherit;
+    margin: auto;
+    color: #293245;
+}
+
+.menuderoulant li {
+    float: left;
+    width: 1050px;
+}
+
+.menuderoulant li a:link, .menuderoulant li a:visited {
+    display: block;
+    color: white;
+    background: #293245;
+    padding: inherit;
+    border-right: 1px solid white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.menuderoulant li a:hover{
+    background-color: #199BD2;
+}
+
+.menuderoulant li a:active{
+    background-color: #808080;
+}
+
+.menuderoulant .sousmenu{
+    list-style-type: none;
+    display: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+}
+
+.menuderoulant .sousmenu li{
+    float: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid transparent;
+    border-right: : 1px solid transparent;
+}
+
+.menuderoulant .sousmenu li a:link, .menuderoulant li a:visited {
+    display: block;
+    color: white;
+    text-decoration: none;
+    background-color: #293245;
+}
+
+.menuderoulant .sousmenu li a:hover {
+    background-color: #199BD2;
+}
+
+.menuderoulant li:hover .sousmenu {
+    display: block;
+}
+
+.cadre{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+.prgmpy1{
+    position: absolute;
+    left: 100px;
+    top: 200px;
+}
+
+.t1{
+    position: absolute;
+    left: 100px;
+    top: 75px;
+}
+
+.prgmpy2{
+    position: absolute;
+    left: 1200px;
+    top: 230px;
+}
+
+.t2{
+    position: absolute;
+    left: 1200px;
+    top: 75;
+}
+
+.prgmpy3{
+    position: absolute;
+    left: 1200px;
+    top: 1300px;
+}
+
+.t3{
+    position: absolute;
+    left: 1200px;
+    top: 1200px;
+}
+
+.prgmpy4{
+    position: absolute;
+    left: 100px;
+    top: 1200px;
+}
+
+.t4{
+    position: absolute;
+    left: 100px;
+    top: 1100px;
+}
+
+.prgmpy5{
+    position: absolute;
+    left: 100px;
+    top: 1600px;
+}
+
+.t5{
+    position: absolute;
+    left: 100px;
+    top: 1500px;
+}
+
+.prgmpy6{
+    position: absolute;
+    left: 100px;
+    top: 2200px;
+}
+
+.t6{
+    position: absolute;
+    left: 100px;
+    top: 2100px;
+}
