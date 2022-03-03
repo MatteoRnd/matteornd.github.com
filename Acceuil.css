@@ -80,6 +80,7 @@ body{
     margin: 50px;
     padding: 200px;
     left: 60px;
+    color: white;
     font-family: Chalkduster, fantasy;
 }
 
@@ -107,154 +108,11 @@ body{
     top: 100px;
 }
 
-.python{
-    position: absolute;
-    left: 1000px;
-    top: 200px;
-}
-
-.etoile1{
-    position: absolute;
-    left: 1100px;
-    top: 230px;
-}
-
-.etoile2{
-    position: absolute;
-    left: 1150px;
-    top: 230px;
-}
-
-.etoile3{
-    position: absolute;
-    left: 1200px;
-    top: 230px;
-}
-
-.etoile4{
-    position: absolute;
-    left: 1250px;
-    top: 230px;
-}
-
-.etoile5{
-    position: absolute;
-    left: 1300px;
-    top: 230px;
-}
-
-.HTML{
-    position: absolute;
-    left: 1000px;
-    top: 270px;
-}
-
-.etoile6{
-    position: absolute;
-    left: 1100px;
-    top: 300px;
-}
-
-.etoile7{
-    position: absolute;
-    left: 1150px;
-    top: 300px;
-}
-
-.etoile8{
-    position: absolute;
-    left: 1200px;
-    top: 300px;
-}
-
-.etoile9{
-    position: absolute;
-    left: 1250px;
-    top: 300px;
-}
-
-.etoile10{
-    position: absolute;
-    left: 1300px;
-    top: 300px;
-}
-
-.SQL{
-    position: absolute;
-    left: 1500px;
-    top: 200px;
-}
-
-.etoile11{
-    position: absolute;
-    left: 1600px;
-    top: 230px;
-}
-
-.etoile12{
-    position: absolute;
-    left: 1650px;
-    top: 230px;
-}
-
-.etoile13{
-    position: absolute;
-    left: 1700px;
-    top: 230px;
-}
-
-.etoile14{
-    position: absolute;
-    left: 1750px;
-    top: 230px;
-}
-
-.etoile15{
-    position: absolute;
-    left: 1800px;
-    top: 230px;
-}
-
-.CSS{
-    position: absolute;
-    left: 1500px;
-    top: 270px;
-}
-
-.etoile16{
-    position: absolute;
-    left: 1600px;
-    top: 300px;
-}
-
-.etoile17{
-    position: absolute;
-    left: 1650px;
-    top: 300px;
-}
-
-.etoile18{
-    position: absolute;
-    left: 1700px;
-    top: 300px;
-}
-
-.etoile19{
-    position: absolute;
-    left: 1750px;
-    top: 300px;
-}
-
-.etoile20{
-    position: absolute;
-    left: 1800px;
-    top: 300px;
-}
-
 .futurcarr{
     position: absolute;
     left: 200px;
     top: 500px;
+    color: white;
 }
 
 .objcar1{
